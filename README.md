@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Marti Shaban
+- 👋 function javaScript(firstName, surname, age) {
+       console.log(`I am ${firstName} ${surname}, ${age} years old!`);
+     }
+     javaScript("Marti", "Shaban", 32)
 - 🌱 I’m currently learning JavaScript
 
 
