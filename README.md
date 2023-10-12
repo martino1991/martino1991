@@ -1,6 +1,6 @@
-function javaScript (firstName, surname, age) {
+function javaScript (firstName, surName, age) {
 
-console.log  (`I am ${firstName} ${surname}, ${age} years old!`);
+console.log  (`I am ${firstName} ${surName}, ${age} years old!`);
 
 }
 
