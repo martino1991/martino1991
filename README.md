@@ -1,10 +1,10 @@
-function javaScript(firstName, surname, age) {
+function javaScript (firstName, surname, age) {
 
-console.log(`I am ${firstName} ${surname}, ${age} years old!`);
+console.log  (`I am ${firstName} ${surname}, ${age} years old!`);
 
 }
 
-javaScript("Marti", "Shaban", 32)
+javaScript  ("Marti", "Shaban", 32)
 
   
 - 🌱 I’m currently learning JavaScript
